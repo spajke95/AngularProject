@@ -20,7 +20,7 @@ import { AppComponent } from './app.component';
     BrowserModule,MatButtonModule,MatToolbarModule,
     MatIconModule,MatBadgeModule,MatTableModule,
     MatCheckboxModule,MatFormFieldModule,
-    MatSlideToggleModule
+    MatSlideToggleModule,FormsModule,MatInputModule
   ],
   providers: [],
   bootstrap: [AppComponent]
